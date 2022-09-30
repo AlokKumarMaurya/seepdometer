@@ -1,0 +1,1 @@
+int no_of_fecimal_places_in_speed=2;
